@@ -1,0 +1,16 @@
+Volatility
+Log of data
+Learn pandas
+Learn Jupyter kits
+Learn how to use the data sets
+
+Keep code clean
+
+Plot volatility
+Understand parameters (lookback, price, range)
+Work with small lookbacks to see more relative data
+look at different weighting schemes to se how it affects scale
+
+volatiity on log(price)
+
+jupyter notebook containing plot of daily bitcoin volatility data, explanation of events within the plot, calculating and plotting the distribution of daily data and statistical attributes (ie skew, kurtosis), feed into prophet, plot, predict, plot for both log and raw price (might be interesting to calculate volatility for different lookback periods ie 10, 15, 20, ... Days)
