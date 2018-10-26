@@ -1,0 +1,5 @@
+    Each of the Dendrogram graphs perfectly matches with the correlation matrix because the items
+most closely grouped together on the Dendogram have the highest intensity on the correlation matrix.
+This observation is consistent across all of the different features, especially amongnst the ones
+with the highest correlations. Interestingly, these observations still exist for the lower thresholds
+but are much less quantifiably observable.
